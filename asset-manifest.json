@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Frontend-Cats-V-Dogs-Classification/static/css/main.c0bd2742.css",
+    "main.js": "/Frontend-Cats-V-Dogs-Classification/static/js/main.4ce7989a.js",
+    "static/media/dog.png": "/Frontend-Cats-V-Dogs-Classification/static/media/dog.77f6536277e145e1c42e.png",
+    "static/media/cat.png": "/Frontend-Cats-V-Dogs-Classification/static/media/cat.159fc751302e9c4a746a.png",
+    "index.html": "/Frontend-Cats-V-Dogs-Classification/index.html",
+    "main.c0bd2742.css.map": "/Frontend-Cats-V-Dogs-Classification/static/css/main.c0bd2742.css.map",
+    "main.4ce7989a.js.map": "/Frontend-Cats-V-Dogs-Classification/static/js/main.4ce7989a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0bd2742.css",
+    "static/js/main.4ce7989a.js"
+  ]
+}
